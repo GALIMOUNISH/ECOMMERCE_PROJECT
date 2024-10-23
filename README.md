@@ -1,2 +1,2 @@
 # ECOMMERCE_PROJECT
-This is my project on github.
+JAVA_FULL_STACK_DEVELEOPMENT
